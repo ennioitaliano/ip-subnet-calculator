@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/colorWhite</item>
+        <item name="android:windowBackground">@color/colorWhite</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.AppCompat.Dialog.NoActionBar" parent="Theme.AppCompat.Dialog">
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="ToolbarWhite" parent="AppTheme">
+        <item name="android:textColorSecondary">@color/colorWhite</item>
+    </style>
+
+    <style name="ToolbarWhiteEX" parent="AppTheme">
+        <item name="android:textColorSecondary">@color/colorWhite</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+
+    <style name="ToolbarWhiteCOL" parent="AppTheme">
+        <item name="android:textColorSecondary">@color/colorWhite</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+
+    <style name="DefaultActionBar"  parent="android:Widget.ActionBar"/>
+
+    <style name="DefaultMenu"  parent="android:TextAppearance.Material.Menu"/>
+</resources>

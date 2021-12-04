@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ennio/Desktop/IPSC_NoAd/app/src/main/res/layout-v23/activity_main_calculate.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/ennio/Desktop/IPSC_NoAd/app/src/main/res/layout/about.xml" value="0.8024193548387096" />
+        <entry key="..\:/Users/ennio/Desktop/IPSC_NoAd/app/src/main/res/layout/content_scrolling.xml" value="0.6104651162790697" />
+        <entry key="..\:/Users/ennio/Desktop/IPSC_NoAd/app/src/main/res/layout/privacy.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/ennio/Desktop/IPSC_NoAd/app/src/main/res/layout/row.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/ennio/Desktop/IPSC_NoAd/app/src/main/res/layout/tool_bar.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/ennio/Desktop/IPSC_NoAd/app/src/main/res/menu/menu_scrolling.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/ennio/Desktop/IPSC_NoAd/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ennio/Desktop/IPSubnetCalculator/app/src/main/res/layout/about.xml" value="0.3672316384180791" />
+        <entry key="..\:/Users/ennio/Documents/IPSC/app/src/main/res/drawable/outline_email_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ennio/Documents/IPSC/app/src/main/res/layout-v23/activity_main_calculate.xml" value="0.25" />
+        <entry key="..\:/Users/ennio/Documents/IPSC/app/src/main/res/layout/about.xml" value="0.25" />
+        <entry key="..\:/Users/ennio/Documents/IPSC/app/src/main/res/layout/content_scrolling.xml" value="0.264" />
+        <entry key="..\:/Users/ennio/Documents/IPSC/app/src/main/res/layout/privacy.xml" value="0.25" />
+        <entry key="..\:/Users/ennio/Documents/IPSC/app/src/main/res/layout/privacydialog.xml" value="0.25" />
+        <entry key="..\:/Users/ennio/Documents/IPSC/app/src/main/res/menu/menu_scrolling.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

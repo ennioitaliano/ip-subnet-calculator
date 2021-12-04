@@ -1,0 +1,39 @@
+<resources>
+    <string name="calcola">Calcola</string>
+    <string name="indirizzo_ip">Indirizzo IP</string>
+    <string name="maschera">Maschera</string>
+    <string name="indirizzo_ip_inserito">Indirizzo IP in binario</string>
+    <string name="maschera_di_sottorete_inserita">Maschera di sottorete inserita</string>
+    <string name="indirizzi_disponibili">Numero indirizzi disponibili</string>
+    <string name="intervallo_indirizzi">Intervallo indirizzi disponibili</string>
+    <string name="primo_indirizzo">Primo indirizzo disponibile per gli host</string>
+    <string name="ultimo_indirizzo">Ultimo indirizzo disponibile per gli host</string>
+    <string name="broadcast">Indirizzo di broadcast</string>
+    <string name="gateaway">Indirizzo di gateaway</string>
+    <string name="risultati_vuoti">I risultati appariranno qui</string>
+    <string name="test_risultati">test risultati</string>
+    <string name="maschera_titolo">Maschera:      /</string>
+    <string name="indirizzo_ip_titolo">Indirizzo IP:</string>
+    <string name="indirizzo_di_rete">Indirizzo di rete</string>
+    <string name="action_settings" translatable="false" >Impostazioni</string>
+    <string name="calcolabis">CALCOLA</string>
+    <string name="wildcard">Wildcard</string>
+    <string name="pubblicit">Pubblicità</string>
+    <string name="errVal">"Inserisci valori minori di 255 per l'IP e minori di 32 per la maschera"</string>
+    <string name="errNul">"Riempi tutti i campi"</string>
+    <string name="esempio">"Esempio"</string>
+    <string name="cancella">"Cancella"</string>
+    <string name="informazioni">Informazioni</string>
+    <string name="chi_siamo">Chi sono</string>
+    <string name="studente">Studente @ UNIPD</string>
+    <string name="contatti">Contatti</string>
+    <string name="sviluppo">L\'applicazione non è più mantenuta da me, puoi contribuire tramite GitHub.</string>
+    <string name="vitto">Con la partecipazione di Vittorio Campagnolo.</string>
+    <string name="condividi">Condividi l\'app</string>
+    <string name="rate_and_share">Valuta e condividi</string>
+    <string name="share">Condividi</string>
+    <string name="rate">Valuta</string>
+    <string name="shareApp">IP Subnet Calculator - Provala ora! https://bit.ly/2LBZPMx</string>
+    <string name="shareWith">Condividi con:</string>
+
+</resources>

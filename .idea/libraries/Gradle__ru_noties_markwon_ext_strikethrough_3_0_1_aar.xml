@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.noties.markwon:ext-strikethrough:3.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/32e659a9f1512de93766a6bcbb8bbcd5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2bcb549712d6a1e12d37db2b4b0366f0/transformed/ext-strikethrough-3.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2bcb549712d6a1e12d37db2b4b0366f0/transformed/ext-strikethrough-3.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2bcb549712d6a1e12d37db2b4b0366f0/transformed/ext-strikethrough-3.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.noties.markwon/ext-strikethrough/3.0.1/eafacf32b7208a56875cfeb48300d40a2e9c0147/ext-strikethrough-3.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.noties.markwon/ext-strikethrough/3.0.1/a8c2dc7458b58c3cbc65a0b14a97f16e6911c1f3/ext-strikethrough-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

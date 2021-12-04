@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calcola">Calculate</string>
+    <string name="gateaway">Gateaway</string>
+    <string name="broadcast">Broadcast</string>
+    <string name="indirizzi_disponibili">Number of available addresses</string>
+    <string name="indirizzo_di_rete">Network</string>
+    <string name="indirizzo_ip">IP Address</string>
+    <string name="indirizzo_ip_inserito">IP Address (binary)</string>
+    <string name="indirizzo_ip_titolo">IP Address:</string>
+    <string name="intervallo_indirizzi">Available addresses</string>
+    <string name="maschera">Subnet mask</string>
+    <string name="maschera_di_sottorete_inserita">Subnet mask</string>
+    <string name="maschera_titolo">Subnet mask:      /</string>
+    <string name="primo_indirizzo">First host</string>
+    <string name="pubblicit">Ad</string>
+    <string name="risultati_vuoti">Results will appear here</string>
+    <string name="test_risultati">test results</string>
+    <string name="ultimo_indirizzo">Last host</string>
+    <string name="wildcard">Wildcard</string>
+    <string name="calcolabis">CALCULATE</string>
+    <string name="cancella">Clean</string>
+    <string name="errNul">Fill in all the fields</string>
+    <string name="errVal">Insert IP values under 255 and mask values under 32</string>
+    <string name="esempio">Example</string>
+    <string name="informazioni">About</string>
+    <string name="chi_siamo">About me</string>
+    <string name="action_settings">Settings</string>
+    <string name="studente">Student @ UNIPD</string>
+    <string name="contatti">Contacts</string>
+    <string name="sviluppo">The app no longer maintained by me. You can contribute via GitHub.</string>
+    <string name="vitto">Special thanks to Vittorio Campagnolo.</string>
+    <string name="condividi">Share the app</string>
+    <string name="rate_and_share">Rate and share</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+    <string name="shareApp">IP Subnet Calculator - Try it now! https://bit.ly/2LBZPMx</string>
+    <string name="shareWith">Share with:</string>
+</resources>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.noties.markwon:image-gif:3.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1fb589f3e7c41442f27dafb0c6640ddd/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f67bcb9c006c3f1d990bd4e60dac49be/transformed/image-gif-3.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f67bcb9c006c3f1d990bd4e60dac49be/transformed/image-gif-3.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f67bcb9c006c3f1d990bd4e60dac49be/transformed/image-gif-3.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.noties.markwon/image-gif/3.0.1/a1d84dc44594747378e35c3e4f985c7014c4b540/image-gif-3.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.noties.markwon/image-gif/3.0.1/57689bf55390b5cd5e448d152912de2160aeeac6/image-gif-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

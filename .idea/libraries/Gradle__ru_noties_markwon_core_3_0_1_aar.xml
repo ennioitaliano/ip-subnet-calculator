@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.noties.markwon:core:3.0.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bc3ae866d5848eef8c610d77cc5d788b/transformed/core-3.0.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bc3ae866d5848eef8c610d77cc5d788b/transformed/core-3.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bc3ae866d5848eef8c610d77cc5d788b/transformed/core-3.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bc3ae866d5848eef8c610d77cc5d788b/transformed/core-3.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.noties.markwon/core/3.0.1/2fc79a88395ec9ef4c3eda56beeff526435e1a1/core-3.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.noties.markwon/core/3.0.1/2c5b94c9df3ca5888418e5505106918c91705386/core-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.noties.markwon:html:3.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/59d5617218687fa96f336141b2a9d920/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/59ce75983842504bcd5384727d45c64a/transformed/html-3.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/59ce75983842504bcd5384727d45c64a/transformed/html-3.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/59ce75983842504bcd5384727d45c64a/transformed/html-3.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.noties.markwon/html/3.0.1/20407c96480db65860df8cfe186cd54e8c28a43a/html-3.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.noties.markwon/html/3.0.1/b24c0938f1d82b9e39ecd2dba980948a32d23921/html-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.noties.markwon:ext-tables:3.0.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ab8a2297f54067a9a4883406040c83b4/transformed/ext-tables-3.0.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ab8a2297f54067a9a4883406040c83b4/transformed/ext-tables-3.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ab8a2297f54067a9a4883406040c83b4/transformed/ext-tables-3.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ab8a2297f54067a9a4883406040c83b4/transformed/ext-tables-3.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.noties.markwon/ext-tables/3.0.1/21edcababc0072410c726bf192bdfd8f25840391/ext-tables-3.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.noties.markwon/ext-tables/3.0.1/1486f05f1be094c1ea31df106dab5c217f7865c/ext-tables-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
