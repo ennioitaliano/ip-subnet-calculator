@@ -1,3 +1,10 @@
+**Disclaimer**
+- I wrote this code in 2019 for a school project, and this was my very first experience with mobile apps developement.
+  - I did not know anything about design patterns, algorithms, data structures or good practices in this field.
+- The code and the text you can find in the Wiki were originally written in Italian (my main language). I translated the wiki quickly and without so much attention, so it could be not so clear.
+- The app was originally published to the Play Store with some ads, privacy policy and other complications; I removed them all to publish it here in an open source form.
+- I'd like to rewrite the app from scratch, but maybe using Flutter (which I'm learning right now) just for fun and to implement better some algorithms and structure, although this remains a very simple project.
+***
 # IP Subnet Calculator
 **IP Subnet Calculator** is an Android application allowing users to calculate some parameters useful for the design of communication networks.
 
