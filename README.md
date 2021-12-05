@@ -1,5 +1,5 @@
 # IP Subnet Calculator
-**IP Subnet Calculator** is an Android application allowing the users to calculate some parameters useful for the design of communication networks.
+**IP Subnet Calculator** is an Android application allowing users to calculate some parameters useful for the design of communication networks.
 
 Users have to insert an IP address and a net mask, and the application will calculate:
 - the "parent" net address;
