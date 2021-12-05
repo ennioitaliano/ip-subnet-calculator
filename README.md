@@ -17,3 +17,5 @@ Users have to insert an IP address and a net mask, and the application will calc
 - the wildcard mask.
 
 The IP address and the net mask that users have to insert must be in a `a.b.c.d/x` format ([CIDR](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_notation)), where `x` is the subnet mask and `a`, `b`, `c`, `d` are the four bytes that make up the IP address.
+
+![animation gif](https://user-images.githubusercontent.com/47503625/144753883-4613c230-709f-415b-a3b6-186e8b1b6774.gif)
