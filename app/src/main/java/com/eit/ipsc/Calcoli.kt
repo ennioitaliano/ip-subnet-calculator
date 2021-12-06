@@ -86,6 +86,7 @@ class Calcoli(private val ip1Int: Int?, private val ip2Int: Int?, private val ip
         ipBinFinal[3] = String.format("%8s", Integer.toBinaryString(ip4Int!!)).replace(' ', '0')
 
         return ipBinFinal
+        //p
     }
 
     fun ipBinario(): String {
